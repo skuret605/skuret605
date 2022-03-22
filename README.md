@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sergio Kuret
+- 👀 I’m interested in learning more and more
+- 🌱 I’m currently learning JS ans his Frameworks
+- 💞️ I’m looking to collaborate on a huge project
+- 📫 How to reach me sergiokuret605@gmail.com
